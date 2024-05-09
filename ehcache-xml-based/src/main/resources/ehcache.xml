@@ -16,7 +16,7 @@
 
 	</cache>
 
-	<cache alias="cache2">
+<!-- 	<cache alias="cache2">
 		<key-type>java.lang.Integer</key-type>
 		<value-type>java.lang.Double</value-type>
 
@@ -28,7 +28,7 @@
 			<offheap unit="MB">100</offheap>
 		</resources>
 
-	</cache>
+	</cache> -->
 
 
 </config>	
